@@ -74,6 +74,7 @@ Setelah perulangan selesai, baris ini menampilkan pesan ```"Selesai"``` untuk me
 # HASIL VISUAL CODE
 ![Screenshot 2024-11-02 140353](https://github.com/user-attachments/assets/e0877548-9a7c-4e2c-bc6e-a5b310eebaf2)
 
+
 # LATIHAN 2
 ## LATIHAN 2.PY
 ```python
@@ -137,6 +138,7 @@ Baris-baris ini mencetak laba untuk masing-masing bulan, dan total laba.
 
 # HASIL VISUAL CODE:
 ![Screenshot 2024-11-02 140442](https://github.com/user-attachments/assets/123ad6bd-d964-4d53-a8cb-35dccf899b87)
+
 
 # LATIHAN 3
 ```python
@@ -218,3 +220,4 @@ Jika input pengguna tidak sesuai dengan opsi yang ada (1 atau 2), maka program a
 
 # HASIL VISUAL CODE
 ![Screenshot 2024-11-02 140956](https://github.com/user-attachments/assets/74e78fa1-37cb-4507-ae82-866e0b74ac66)
+
